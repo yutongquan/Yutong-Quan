@@ -1,5 +1,5 @@
-# Yutong-Quan
-The Webpage for Yutong Quan :sheep::sheep:
+# Yutong Quan
+The Page for Yutong Quan's STATS201 Cource Project :sheep::sheep:
 
 ![Yutong](./image/yutong.quan.jpg)
 
