@@ -1,4 +1,4 @@
-## Problem Set 2 Github Repository:
+## Problem Set 2 Github Repositories:
 
  - **Problem Set 2**: https://github.com/yutongquan/STATS201_Problem_Set_2
 
